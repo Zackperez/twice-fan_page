@@ -60,7 +60,7 @@ const Vista = {
             <img src=" ${element.coverArt} " alt="" class="album__cover">
             </div>  
             <div class="album-contenido">
-                <p class="album__contenido"><i class="fa-solid fa-circle-question"></i> ${element.content}</p>
+                <p class="album__contenido">${element.content}</p>
             </div>
             <div class="tracks-titulo">
             <h3 class="titulo">Tracklist</h3>
